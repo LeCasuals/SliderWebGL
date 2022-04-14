@@ -1,1 +1,1 @@
-Access website here: https://thecasualss.bitbucket.io
+Access website here: https://blizzard318.github.io/SliderWebGL/
