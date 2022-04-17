@@ -6,7 +6,7 @@
   "icons": [
     {
       "src": "TemplateData/Icon.png",
-      "sizes": "114x114",
+      "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
     }
